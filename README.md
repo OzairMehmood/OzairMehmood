@@ -1,158 +1,174 @@
 <h1 align="center">OZAIR MEHMOOD</h1>
-<h3 align="center">Android Developer | Backend Developer (Node.js & FastAPI) | Full-Stack Mobile Engineer</h3>
+
+<h3 align="center">
+Android Engineer · Backend Engineer · Full-Stack Mobile Systems Developer
+</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="420" alt="Coding Animation"/>
+📍 Rawalpindi, Pakistan · 📧 ozairabbasi633@gmail.com · 📱 +92-316-949-3425
+</p>
+
+<p align="center">
+<a href="https://linkedin.com">LinkedIn</a> · <a href="https://github.com/ozairmehmood">GitHub</a> · <a href="https://youtube.com">YouTube</a>
 </p>
 
 ---
 
-## 👨‍💻 PROFESSIONAL SUMMARY
-
-Android & Backend Developer with **2+ years of professional experience** building and shipping production-grade mobile and server-side applications.
-
-Delivered **5+ Android apps on Google Play Store** and developed a full-stack AI-powered system using:
-**Kotlin + Node.js + FastAPI + YOLOv8 + MySQL**
-
-Strong expertise in:
-- Clean Architecture (MVVM)
-- REST API Design & Backend Systems
-- Android Performance Optimization
-- AI Integration in Mobile Apps
-- Scalable Full-Stack Development
-
----
-
-## 🧠 TECHNICAL SKILLS
-
-### 🚀 Languages
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="420"/>
 </p>
 
 ---
 
-### 📱 Android Development
-<p>
-  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Components-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-</p>
+## 🧭 ENGINEERING SUMMARY
+
+Android & Backend Engineer with **2+ years of production experience** building scalable mobile systems and backend architectures.
+
+Delivered **5+ production Android applications on Google Play Store** and engineered a full-stack AI-powered system combining:
+
+**Kotlin · Node.js · FastAPI · YOLOv8 · MySQL**
+
+Core focus:
+- Scalable Android architecture (MVVM + Clean Architecture)
+- Backend system design & REST APIs
+- Real-time AI integration in mobile systems
+- Performance-critical Android engineering
+- Production-grade software delivery
 
 ---
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
-</p>
+## ⚙️ CORE EXPERTISE
 
----
+### 📱 Android Engineering
+- Android SDK, Jetpack, MVVM
+- Clean Architecture, Repository Pattern
+- Room, SQLite, Offline-first systems
+- Camera2 API, Media & Sensor systems
+- Performance tuning & memory optimization
+
+### 🌐 Backend Engineering
+- Node.js, Express.js
+- FastAPI (Python)
+- RESTful API design
+- JWT Authentication, Middleware systems
+- Scalable backend architecture
 
 ### 🧠 AI / Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+- YOLOv8 object detection
+- OpenCV image processing
+- Real-time inference pipelines
+- API-based AI integration
 
----
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+### 🗄️ Databases
+- MySQL (relational systems)
+- SQLite (local persistence)
+- Room (Android persistence layer)
+- Firebase (cloud services)
 
 ---
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-### Android Developer — ZeeSign Tech, Rawalpindi
+### Android Developer — ZeeSign Tech
 **Aug 2023 – Present**
 
-- Built and deployed **5+ production Android applications** on Google Play Store
-- Designed scalable UI using **Material Design + XML**
-- Integrated **REST APIs + offline-first architecture (Room + SQLite)**
-- Implemented **Google AdMob monetization strategies**
-- Optimized performance via memory profiling & background task tuning
-- Worked in Agile teams with developers, QA, and designers
+Production Android development for real-world clients and Play Store apps.
+
+- Delivered **5+ production apps published on Google Play Store**
+- Designed scalable UI systems using **Material Design principles**
+- Built offline-first architectures using **Room + SQLite**
+- Integrated **REST APIs for dynamic data systems**
+- Implemented **AdMob monetization strategies (Banner, Interstitial, Native)**
+- Optimized app performance via profiling, threading, and memory tuning
+- Worked in Agile teams with cross-functional collaboration
 
 ---
 
-## 🚀 TECHNICAL PROJECTS
+## 🚀 SELECTED PROJECTS
 
-### 🛒 Shopping Assistant (Final Year Project)
+### 🛒 Smart Shopping Assistant (Final Year Project)
 *Kotlin · Node.js · FastAPI · YOLOv8 · MySQL*
 
-- Full-stack AI shopping system with smart trolley detection
+Full-stack AI-driven retail system.
+
 - Node.js backend for authentication, inventory, billing
-- FastAPI + YOLOv8 for real-time object detection
-- Android MVVM app with barcode scanning & smart billing
+- FastAPI AI service using YOLOv8 for real-time object detection
+- Android MVVM app with barcode scanning + smart cart system
+- Automated billing via QR-based checkout system
+- Real-time product detection from trolley camera feed
 
 ---
 
-### 📷 GPS Map Camera
+### 📷 GPS Map Camera System
 *Kotlin · Camera2 API · Google Maps API*
 
-- Real-time GPS stamping on captured images
-- Reverse geocoding for address embedding
+- Real-time GPS embedding into captured images
+- Reverse geocoding for automatic address stamping
+- Hardware-level camera integration using Camera2 API
 
 ---
 
-### 🕌 Islamic App Suite
+### 🕌 Islamic Companion App Suite
 *Java · SQLite · Prayer APIs*
 
-- Quran reader, prayer timing, Qibla compass
-- Offline-first architecture with notifications
+- Quran reader + prayer timings + Qibla compass
+- Offline-first architecture with background notifications
+- Multi-sect prayer calculation support
 
 ---
 
-### 📘 Medical Dictionary (Offline)
-*Kotlin · Room · SQLite FTS*
+### 📘 Medical Dictionary (Offline Engine)
+*Kotlin · SQLite FTS · Room*
 
-- 1000+ medical terms with fast full-text search
-- Sub-100ms search performance optimization
+- 1000+ medical terms offline database
+- Full-text search optimized under 100ms response time
+- Voice search + accessibility support
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 SYSTEM SIGNALS (GITHUB)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozairmehmood&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmehmood&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ozairmehmood&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmehmood&layout=compact&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozairmehmood" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozairmehmood&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🧰 TECH STACK
 
 <p align="center">
-  <a href="https://fb.com/ozairabbasi">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,nodejs,express,fastapi,mysql,sqlite,firebase,git,github,androidstudio" />
+</p>
+
+---
+
+## 📡 CONNECT
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/c/ozairmehmood">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
+  <a href="https://github.com/ozairmehmood">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⭐ CLOSING
+## 🧠 ENGINEERING PHILOSOPHY
+
+> “Build systems that scale, not just apps that run.”
+
+---
 
 <p align="center">
-  🚀 Open to Android | Backend | Full-Stack opportunities worldwide  
+⭐ Open to Android Engineer · Backend Engineer · Full-Stack Roles
 </p>
