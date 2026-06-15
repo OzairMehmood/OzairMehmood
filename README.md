@@ -2,153 +2,157 @@
 <h3 align="center">Android Developer | Backend Developer (Node.js & FastAPI) | Full-Stack Mobile Engineer</h3>
 
 <p align="center">
-  Rawalpindi, Pakistan • 📧 ozairabbasi633@gmail.com • 📱 +92-316-949-3425  
-  <br/>
-  <a href="https://linkedin.com">LinkedIn</a> • <a href="https://github.com/ozairmehmood">GitHub</a>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="420" alt="Coding Animation"/>
 </p>
 
 ---
 
-## PROFESSIONAL SUMMARY
-Android & Backend Developer with **2+ years of professional experience** designing, developing, and deploying production-grade mobile and server-side applications.  
+## 👨‍💻 PROFESSIONAL SUMMARY
 
-Delivered **5+ applications on Google Play Store** and engineered a complete full-stack system using **Kotlin, Node.js, FastAPI, YOLOv8, and MySQL** for a real-world final year project.
+Android & Backend Developer with **2+ years of professional experience** building and shipping production-grade mobile and server-side applications.
+
+Delivered **5+ Android apps on Google Play Store** and developed a full-stack AI-powered system using:
+**Kotlin + Node.js + FastAPI + YOLOv8 + MySQL**
 
 Strong expertise in:
-- MVVM & Clean Architecture
-- REST API Design & System Architecture
-- Database Design (SQL / SQLite / Room)
-- Performance optimization & scalable Android systems
-- Backend API development & AI integration
-
-Seeking opportunities in **Full-Stack Mobile Development / Android Engineering / Backend Systems**.
+- Clean Architecture (MVVM)
+- REST API Design & Backend Systems
+- Android Performance Optimization
+- AI Integration in Mobile Apps
+- Scalable Full-Stack Development
 
 ---
 
-## TECHNICAL SKILLS
+## 🧠 TECHNICAL SKILLS
 
-**Programming Languages:**  
-Kotlin, Java, JavaScript (Node.js), Python, SQL  
-
-**Android Development:**  
-Android SDK, Jetpack Components, MVVM, Clean Architecture, XML UI, Material Design, Camera2 API, Gradle  
-
-**Backend Development:**  
-Node.js, Express.js, FastAPI, REST APIs, JWT Authentication, Middleware  
-
-**AI / Computer Vision:**  
-YOLOv8, OpenCV, Real-time Object Detection, Image Processing Pipelines  
-
-**Architecture & Design Patterns:**  
-MVVM, Clean Architecture, Repository Pattern, Dependency Injection (Hilt/Dagger), MVC  
-
-**Libraries & Frameworks:**  
-Retrofit, Glide, Coroutines, LiveData, ViewModel, Room Database  
-
-**Databases:**  
-MySQL, SQLite, Firebase  
-
-**Tools & Platforms:**  
-Git, GitHub, Postman, Swagger, Android Studio, Play Store Publishing, Agile/Scrum  
+### 🚀 Languages
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## PROFESSIONAL EXPERIENCE
-
-### Android Developer
-**ZeeSign Tech, Rawalpindi**  
-*Aug 2023 – Present*
-
-- Developed and maintained **5+ production Android applications** published on Google Play Store.
-- Designed scalable UI systems using **XML + Material Design principles**, improving usability and engagement.
-- Integrated **REST APIs** and implemented robust offline-first architecture using **Room & SQLite**.
-- Implemented **Google AdMob monetization (Banner, Interstitial, Native ads)** with optimized placement strategy.
-- Improved application performance through memory optimization, background task handling, and profiling tools.
-- Collaborated in Agile development teams with designers, backend engineers, and QA teams.
+### 📱 Android Development
+<p>
+  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Components-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
+</p>
 
 ---
 
-## TECHNICAL PROJECTS
-
-### Shopping Assistant (Final Year Project)
-*Kotlin · Node.js · Express.js · FastAPI · YOLOv8 · MySQL (2026)*
-
-- Designed a complete **full-stack intelligent shopping system**.
-- Built backend architecture using **Node.js + Express.js** for business logic and authentication.
-- Developed AI-powered **computer vision service using FastAPI + YOLOv8** for real-time product detection.
-- Implemented Android application using **MVVM architecture** with barcode scanning, inventory tracking, and billing system.
-- Enabled smart trolley system with real-time object detection and automated billing.
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
+</p>
 
 ---
 
-### Object Detection REST API
-*Python · FastAPI · YOLOv8 · OpenCV (2025)*
-
-- Built scalable REST API for image-based object detection.
-- Integrated YOLOv8 model for real-time inference.
-- Deployed with Uvicorn and documented using Swagger UI.
-
----
-
-### Custom Android Launcher
-*Kotlin · SQLite · Material Design (2025)*
-
-- Developed a customizable Android launcher with gesture controls and theme engine.
-- Implemented widget management and optimized home screen rendering performance.
+### 🧠 AI / Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 ---
 
-### Period Calendar & Cycle Tracker
-*Kotlin · Room · MVVM (2024)*
-
-- Offline health tracking app with predictive cycle analysis and fertility window calculation.
-- Implemented local persistence using Room database with lifecycle-aware architecture.
-
----
-
-### GPS Map Camera
-*Kotlin · Camera2 API · Google Maps API (2024)*
-
-- Developed camera application embedding real-time GPS metadata into captured images.
-- Integrated reverse geocoding for automatic address stamping.
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-### Islamic Dua & Quran App
-*Java · SQLite · Prayer APIs (2024)*
+## 💼 PROFESSIONAL EXPERIENCE
 
-- Built a full-feature Islamic application including Quran reader, prayer timings, and Qibla direction system.
-- Implemented background notifications and offline support.
+### Android Developer — ZeeSign Tech, Rawalpindi
+**Aug 2023 – Present**
 
----
-
-### Medical Dictionary (Offline)
-*Kotlin · SQLite FTS · Room (2023)*
-
-- Offline medical dictionary with 1000+ terms.
-- Implemented full-text search achieving sub-100ms query performance.
+- Built and deployed **5+ production Android applications** on Google Play Store
+- Designed scalable UI using **Material Design + XML**
+- Integrated **REST APIs + offline-first architecture (Room + SQLite)**
+- Implemented **Google AdMob monetization strategies**
+- Optimized performance via memory profiling & background task tuning
+- Worked in Agile teams with developers, QA, and designers
 
 ---
 
-## EDUCATION
+## 🚀 TECHNICAL PROJECTS
 
-**Bachelor of Science in Computer Science**  
-PMAS Arid Agriculture University (BIIT), Rawalpindi  
-*2022 – 2026*
+### 🛒 Shopping Assistant (Final Year Project)
+*Kotlin · Node.js · FastAPI · YOLOv8 · MySQL*
 
-Relevant Coursework:  
-Data Structures & Algorithms • OOP • Database Systems • Software Engineering  
+- Full-stack AI shopping system with smart trolley detection
+- Node.js backend for authentication, inventory, billing
+- FastAPI + YOLOv8 for real-time object detection
+- Android MVVM app with barcode scanning & smart billing
+
+---
+
+### 📷 GPS Map Camera
+*Kotlin · Camera2 API · Google Maps API*
+
+- Real-time GPS stamping on captured images
+- Reverse geocoding for address embedding
 
 ---
 
-## ADDITIONAL INFORMATION
+### 🕌 Islamic App Suite
+*Java · SQLite · Prayer APIs*
 
-- **Languages:** English (Professional), Urdu (Native)  
-- **Availability:** Remote & Relocation Open  
-- **Interests:** Mobile Architecture, System Design, UI/UX Engineering, Performance Optimization  
+- Quran reader, prayer timing, Qibla compass
+- Offline-first architecture with notifications
 
 ---
+
+### 📘 Medical Dictionary (Offline)
+*Kotlin · Room · SQLite FTS*
+
+- 1000+ medical terms with fast full-text search
+- Sub-100ms search performance optimization
+
+---
+
+## 📊 GITHUB STATS
 
 <p align="center">
-⭐ Open to Android / Full-Stack / Backend opportunities  
+  <img src="https://github-readme-stats.vercel.app/api?username=ozairmehmood&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozairmehmood&layout=compact" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozairmehmood" />
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://fb.com/ozairabbasi">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+  </a>
+  <a href="https://www.youtube.com/c/ozairmehmood">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+## ⭐ CLOSING
+
+<p align="center">
+  🚀 Open to Android | Backend | Full-Stack opportunities worldwide  
 </p>
