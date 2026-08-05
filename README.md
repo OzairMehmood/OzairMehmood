@@ -1,7 +1,7 @@
 <h1 align="center">OZAIR MEHMOOD</h1>
 
 <h3 align="center">
-Android Engineer · Backend Engineer · Full-Stack Mobile Systems Developer
+Android Engineer · Kotlin, MVVM & Clean Architecture · 5+ Apps Live on Google Play
 </h3>
 
 <p align="center">
@@ -9,61 +9,66 @@ Android Engineer · Backend Engineer · Full-Stack Mobile Systems Developer
 </p>
 
 <p align="center">
-<a href="https://linkedin.com">LinkedIn</a> · <a href="https://github.com/ozairmehmood">GitHub</a> · <a href="https://youtube.com">YouTube</a>
+<a href="https://www.linkedin.com/in/ozairmehmood-188294301">LinkedIn</a> ·
+<a href="https://github.com/OzairMehmood">GitHub</a> ·
+<!-- Add your portfolio URL here once you've confirmed it's live -->
+<a href="https://ozair-abbasi-portfolio.vercel.app/">Portfolio</a> ·
+<!-- Add a resume link here — a hosted PDF (Drive, or a page on your own site) -->
+<a href="#">Resume</a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="420"/>
-</p>
-
----
+<!--
+  Replace this with a real screen recording GIF of one of your own apps —
+  the GPS camera stamping a location onto a photo, or the trolley
+  detection screen from the shopping assistant app, both work well here.
+  A generic stock GIF adds nothing that your own work wouldn't add better.
+-->
 
 ## 🧭 ENGINEERING SUMMARY
 
-Android & Backend Engineer with **2+ years of production experience** building scalable mobile systems and backend architectures.
+Android Engineer with **2+ years of production experience** building native apps in Kotlin and Java, using MVVM and Clean Architecture.
 
-Delivered **5+ production Android applications on Google Play Store** and engineered a full-stack AI-powered system combining:
-
-**Kotlin · Node.js · FastAPI · YOLOv8 · MySQL**
+Shipped **5+ production Android applications live on Google Play Store**, and built a full-stack final-year project — an Android client performing real-time, on-device product detection to power an automated checkout flow.
 
 Core focus:
-- Scalable Android architecture (MVVM + Clean Architecture)
-- Backend system design & REST APIs
-- Real-time AI integration in mobile systems
-- Performance-critical Android engineering
-- Production-grade software delivery
+- Native Android architecture (MVVM + Clean Architecture, repository pattern, use cases)
+- Offline-first data persistence (Room, DataStore)
+- On-device computer vision (TensorFlow Lite, MLKit)
+- Performance-critical Android engineering (Firebase Performance Monitoring, Crashlytics)
+- Production-grade delivery — Play Store release, monetization, crash-free stability
 
 ---
 
 ## ⚙️ CORE EXPERTISE
 
 ### 📱 Android Engineering
-- Android SDK, Jetpack, MVVM
-- Clean Architecture, Repository Pattern
-- Room, SQLite, Offline-first systems
-- Camera2 API, Media & Sensor systems
-- Performance tuning & memory optimization
+- Kotlin, Java, Android SDK
+- MVVM, Clean Architecture, Repository Pattern, Use Cases
+- Room, DataStore, SQLite — offline-first persistence
+- Coroutines, Kotlin Flow
+- Retrofit, OkHttp, REST API integration
+- CameraX, Camera2 API, hardware/sensor integration
+- Navigation Component, Material Design
+- Hilt (dependency injection)
 
-### 🌐 Backend Engineering
-- Node.js, Express.js
-- FastAPI (Python)
-- RESTful API design
-- JWT Authentication, Middleware systems
-- Scalable backend architecture
+### 🧠 On-Device Computer Vision
+- TensorFlow Lite — real-time on-device object detection
+- MLKit — barcode/QR scanning
+- CameraX-based live camera pipelines
 
-### 🧠 AI / Computer Vision
-- YOLOv8 object detection
-- OpenCV image processing
-- Real-time inference pipelines
-- API-based AI integration
+### ☁️ Firebase & Infrastructure
+- Analytics, Crashlytics, Performance Monitoring, Remote Config, Cloud Messaging
+- Google AdMob (Banner, Interstitial, Native) — Play Store policy-compliant monetization
+- Google Play Console — release management
 
-### 🗄️ Databases
-- MySQL (relational systems)
-- SQLite (local persistence)
-- Room (Android persistence layer)
-- Firebase (cloud services)
+<!--
+  If you publish the Node.js/FastAPI/YOLOv8 backend for the shopping-assistant
+  project as a real, public repo, restore a "Backend & AI Services" section
+  here linking directly to it. Until it's a clickable repo, leave it out —
+  an unverifiable claim costs more credibility than a smaller, honest one.
+-->
 
 ---
 
@@ -72,57 +77,64 @@ Core focus:
 ### Android Developer — ZeeSign Tech
 **Aug 2023 – Present**
 
-Production Android development for real-world clients and Play Store apps.
+Native Android development across the full app lifecycle, from architecture through Play Store release.
 
-- Delivered **5+ production apps published on Google Play Store**
-- Designed scalable UI systems using **Material Design principles**
-- Built offline-first architectures using **Room + SQLite**
-- Integrated **REST APIs for dynamic data systems**
-- Implemented **AdMob monetization strategies (Banner, Interstitial, Native)**
-- Optimized app performance via profiling, threading, and memory tuning
-- Worked in Agile teams with cross-functional collaboration
+- Shipped **5+ production apps on Google Play Store** (Kotlin, Java)
+- Structured apps around **MVVM and Clean Architecture** for testable, maintainable code
+- Built **offline-first persistence** using Room and SQLite
+- Integrated **REST APIs** via Retrofit across multiple apps
+- Implemented **Google AdMob monetization** (Banner, Interstitial, Native) while staying inside Play Store policy
+- Profiled and optimized **app startup time and memory usage** on lower-end devices
+- Collaborated in an **Agile/Scrum** team with designers, backend engineers, and QA
 
 ---
 
 ## 🚀 SELECTED PROJECTS
 
-### 🛒 Smart Shopping Assistant (Final Year Project)
-*Kotlin · Node.js · FastAPI · YOLOv8 · MySQL*
+### 🛒 Smart Shopping Assistant — Final Year Project
+*Kotlin · MVVM/Clean Architecture · CameraX · TensorFlow Lite · MLKit · Retrofit*
 
-Full-stack AI-driven retail system.
+Android client for an automated, camera-based retail checkout system.
 
-- Node.js backend for authentication, inventory, billing
-- FastAPI AI service using YOLOv8 for real-time object detection
-- Android MVVM app with barcode scanning + smart cart system
-- Automated billing via QR-based checkout system
-- Real-time product detection from trolley camera feed
+- Clean Architecture with dedicated repository and use-case layers
+- Real-time, **on-device object detection** via TensorFlow Lite
+- **MLKit barcode/QR scanning** integrated into the checkout flow
+- CameraX-based live camera pipeline from a trolley-mounted device
+- REST API integration (Retrofit) for catalog, session, and order data
 
----
-
-### 📷 GPS Map Camera System
-*Kotlin · Camera2 API · Google Maps API*
-
-- Real-time GPS embedding into captured images
-- Reverse geocoding for automatic address stamping
-- Hardware-level camera integration using Camera2 API
+📂 [View repository](https://github.com/OzairMehmood/Ecom_Shopping_Assistant)
 
 ---
 
-### 🕌 Islamic Companion App Suite
-*Java · SQLite · Prayer APIs*
+### 📷 GPS Map Camera
+*Kotlin · CameraX/Camera2 API · Google Maps API · Room · Firebase*
 
-- Quran reader + prayer timings + Qibla compass
-- Offline-first architecture with background notifications
-- Multi-sect prayer calculation support
+- Real-time GPS embedding into captured photos, with reverse geocoding for automatic address stamping
+- Hardware-level camera integration
+- Firebase Crashlytics + Performance Monitoring for stability tracking
+
+📂 [View repository](https://github.com/OzairMehmood/Gps-Map-Camera)
 
 ---
 
-### 📘 Medical Dictionary (Offline Engine)
-*Kotlin · SQLite FTS · Room*
+### 🏠 Custom Home Screen Launcher
+*Kotlin · Room · DataStore · Firebase*
 
-- 1000+ medical terms offline database
-- Full-text search optimized under 100ms response time
-- Voice search + accessibility support
+- Full theming engine with persisted user preferences (DataStore)
+- Room-backed app/icon data layer
+- Firebase Analytics, Crashlytics, Performance Monitoring, Remote Config
+
+📂 [View repository](https://github.com/OzairMehmood/My_Iphone_Launcher)
+
+---
+
+### 🕌 Ramadan Companion
+*Kotlin · Room · Kotlin Flow*
+
+- Quran reader, prayer timings, and Duas — fully offline
+- Clean Room/DAO persistence layer with Flow-based data streams
+
+📂 [View repository](https://github.com/OzairMehmood/RamadaanCompanion)
 
 ---
 
@@ -142,7 +154,7 @@ Full-stack AI-driven retail system.
 ## 🧰 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,nodejs,express,fastapi,mysql,sqlite,firebase,git,github,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,sqlite,git,github" />
 </p>
 
 ---
@@ -150,14 +162,11 @@ Full-stack AI-driven retail system.
 ## 📡 CONNECT
 
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/ozairmehmood-188294301">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/ozairmehmood">
+  <a href="https://github.com/OzairMehmood">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
@@ -165,10 +174,10 @@ Full-stack AI-driven retail system.
 
 ## 🧠 ENGINEERING PHILOSOPHY
 
-> “Build systems that scale, not just apps that run.”
+> "Build systems that scale, not just apps that run."
 
 ---
 
 <p align="center">
-⭐ Open to Android Engineer · Backend Engineer · Full-Stack Roles
+⭐ Open to Android Developer roles — Pakistan-based or remote
 </p>
