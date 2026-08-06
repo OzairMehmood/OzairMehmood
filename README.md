@@ -14,7 +14,7 @@ Android Engineer · Kotlin, MVVM & Clean Architecture · 5+ Apps Live on Google 
 <!-- Add your portfolio URL here once you've confirmed it's live -->
 <a href="https://ozair-abbasi-portfolio.vercel.app/">Portfolio</a> ·
 <!-- Add a resume link here — a hosted PDF (Drive, or a page on your own site) -->
-<a href="#">Resume</a>
+<a href="https://drive.google.com/file/d/145YK1Lc1r1jLydRxd3JjdK_HLBW6WQFH/view?usp=sharing">Resume</a>
 </p>
 
 ---
