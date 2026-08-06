@@ -28,7 +28,7 @@ Android Engineer · Kotlin, MVVM & Clean Architecture · 5+ Apps Live on Google 
 
 ## 🧭 ENGINEERING SUMMARY
 
-Android Engineer with **2+ years of production experience** building native apps in Kotlin and Java, using MVVM and Clean Architecture.
+Android Engineer with **#+ years of production experience** building native apps in Kotlin and Java, using MVVM and Clean Architecture.
 
 Shipped **5+ production Android applications live on Google Play Store**, and built a full-stack final-year project — an Android client performing real-time, on-device product detection to power an automated checkout flow.
 
